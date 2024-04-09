@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Why and What?
+## Everyone has (or had) a blog
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+For years, whenever I had an idea that I could expand on, write about and share, I just forgot about them. This, I think may be one of the largest drivers for people to start blogging, tumblring, tweeting. I finally decided to give it a go myself.
 
+My interests are varied but most have at least ties to technology and specifically programming. Having learned the skill at a young age, it has shaped my world more than I dare to think about. It has provided me with jobs, income, and a hobby, pastime, and an identity. Imagining who I would have become without my dad having introduced me to the ABC 80, is difficult at best.
 
-[jekyll-organization]: https://github.com/jekyll
+[Jungle Quest FTW](/2013/09/16/jungle-quest.html)! 
+
