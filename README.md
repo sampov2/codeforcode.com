@@ -5,7 +5,7 @@ This is a quick and dirty squarespace to jekyll conversion. I never post or chan
 ## Install deps
 
 ```shell
-sudo gem install bundler Jekyll
+sudo gem install bundler jekyll
 sudo bundle install
 ```
 

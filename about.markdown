@@ -6,7 +6,7 @@ permalink: /about/
 
 
 # Why and What?
-## Everyone has (or had) a blog
+#### Everyone has (or had) a blog
 
 For years, whenever I had an idea that I could expand on, write about and share, I just forgot about them. This, I think may be one of the largest drivers for people to start blogging, tumblring, tweeting. I finally decided to give it a go myself.
 
