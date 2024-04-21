@@ -7,29 +7,8 @@ layout: post
 
 I have a New Year's resolution for the year 2015. My goal is to learn the basics of a new programming language each month of the year. The goal is to familiarize myself with different languages and paradigms and perhaps get some new perspective on the languages I used daily. I've attempted to select languages that are somewhat useful instead of delving into the too archaic or too experimental.
 
-[
-
-\>
-
-![Image by&nbsp;hobvias sudoneighm](https://images.squarespace-cdn.com/content/v1/52375b95e4b030ffaec4c1f9/1420120635090-A55GUBANBTHAI2E3TIYO/image-asset.png)
-
-
-
-](https://www.flickr.com/photos/striatic/)
-
-[](https://www.flickr.com/photos/striatic/)
-
-<figcaption>
-
-
-
+![Image by&nbsp;hobvias sudoneighm](https://images.squarespace-cdn.com/content/v1/52375b95e4b030ffaec4c1f9/1420120635090-A55GUBANBTHAI2E3TIYO/image-asset.png){: width="100%" }
 Image by [hobvias sudoneighm](https://www.flickr.com/photos/striatic/)
-
-
-
-
-
-</figcaption>
 
 Here's the plan:
 

@@ -11,29 +11,9 @@ layout: post
 
 I have no idea how many accounts I've signed up for. As such, there are bits of my data all over the web. I understand why forums and shops want to know who I am, or at least connect some information to a pseudonym. This also helps me: I can set up email notifications and save my shipping address, and maintain a recognizable identity in online discussions. All commendable goals without which, life online could become anything from tedious to impossible. Nevertheless, I can't help but feel wary about having usernames, passwords, email addresses, shipping addresses, preferences, age etc. sprinkled all over.
 
-[
+![Image by Katie](https://images.squarespace-cdn.com/content/v1/52375b95e4b030ffaec4c1f9/1379968402652-NSXU8QEJD5GOVEMPH2MW/2677247505_2c730354ab_b.jpg){: width="100%" }
+Image by [Katie](http://www.flickr.com/photos/eightk/2677247505/)
 
-\>
-
-![Image by Katie](https://images.squarespace-cdn.com/content/v1/52375b95e4b030ffaec4c1f9/1379968402652-NSXU8QEJD5GOVEMPH2MW/2677247505_2c730354ab_b.jpg)
-
-
-
-](http://www.flickr.com/photos/eightk/2677247505/)
-
-[](http://www.flickr.com/photos/eightk/2677247505/)
-
-<figcaption>
-
-
-
-Image by Katie
-
-
-
-
-
-</figcaption>
 
 One way to deal with this is to use fake identities, but this approach brings with it multiple problems. Using a single fake identity makes this identity important to you. Losing control of it would not be as bad as having your real identity stolen, but it would have an effect anyhow. You could use a different fake identity for every site, but this requires a lot of work. It's also worth mentioning that using fake names is often a violation of ToS. Perhaps the biggest issue with the fake account approach is that you can't build online reputation that way. At least not reputation you can use on your resume.
 

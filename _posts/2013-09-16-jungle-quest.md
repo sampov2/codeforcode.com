@@ -12,29 +12,8 @@ I can never remember, was it an [8086](http://en.wikipedia.org/wiki/Intel_8086)
 
 Both were computers I had the privilege to play with as a kid. My dad taught computer science at a local school, which gave me the occasional chance to tag along with him to the CS classroom. The school, which I never attended myself, always felt slightly mystical. I never saw any of the pupils. It was always just the two of us, except maybe once we caught a glimpse of a janitor doing some cleaning. That place, the after hours school, was a place I loved visiting.
 
-[
-
-\>
-
-![Image source, Wikipedia. Thanks&nbsp;Arj](https://images.squarespace-cdn.com/content/v1/52375b95e4b030ffaec4c1f9/1379368208695-Z5B3VFMT8MXSZQQQGX1A/800px-Metric_ABC_80_Trondheim.jpg)
-
-
-
-](http://en.wikipedia.org/wiki/File:Metric_ABC_80_Trondheim.jpg)
-
-[](http://en.wikipedia.org/wiki/File:Metric_ABC_80_Trondheim.jpg)
-
-<figcaption>
-
-
-
-Image source, Wikipedia. Thanks Arj
-
-
-
-
-
-</figcaption>
+![Image source, Wikipedia. Thanks&nbsp;Arj](https://images.squarespace-cdn.com/content/v1/52375b95e4b030ffaec4c1f9/1379368208695-Z5B3VFMT8MXSZQQQGX1A/800px-Metric_ABC_80_Trondheim.jpg){: width="100%" }
+Image source, [Wikipedia. Thanks Arj](http://en.wikipedia.org/wiki/File:Metric_ABC_80_Trondheim.jpg)
 
 Thinking back to those computers, it's more than clear how far we've come. I can still hear the sound of starting up those big metal boxes. The plastic floppy disks gave an oscillating sound when they wound up, shortly followed by the screeching sound of the magnetic head reading data at breakneck speeds of multiple kilobytes per second. Most of the 8086's had two floppy drives, as you needed one drive for the OS and another for programs and storage. While the teacher's computer was specially fitted with an enormous 20 MB hard drive, many of the other computers still relied on cassette tape drives for storage.
 

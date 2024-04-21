@@ -12,7 +12,7 @@ Software development produces two distinct end products:
 
 A software development project then tries to allocate resources fairly between the two.
 
-![Image by Wiros](/images/balancing-act.jpeg)
+![Image by Wiros](/images/balancing-act.jpeg){: width="100%" }
 [source](https://www.flickr.com/photos/91515119@N00/1795141144)
 
 The scale tilts to the first for one-off, short lived projects while strategic, long-term projects need to focus on the second. 

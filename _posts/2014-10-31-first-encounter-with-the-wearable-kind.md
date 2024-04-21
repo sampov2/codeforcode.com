@@ -7,21 +7,8 @@ layout: post
 
 I have finally received my Moto 360 (thanks to my couriers!). That happened a little over a week ago, and now feels like a good time to go through what I like and dislike about it.
 
-\>
 
-![Yes. I am hairy. No. I will not wax them.](/images/wearable.jpg)
-
-<figcaption>
-
-
-
-Yes. I am hairy. No. I will not wax them.
-
-
-
-
-
-</figcaption>
+![Yes. I am hairy. No. I will not wax them.](/images/wearable.jpg){: width="100%" }
 
 So what is it? It is a wearable device that is able to show messages, notifications, give directions and perform web searches. You can also install applications that run on the watch that provide further functionality like fitness tracking. It is also a watch, but that is not really the point. Being able to tell time with a watch has not been a main reason why people wear them in this millennium. Watches are jewelry. For the purposes of wearable technology, a watch is also a universally recognized and understood form factor.
 

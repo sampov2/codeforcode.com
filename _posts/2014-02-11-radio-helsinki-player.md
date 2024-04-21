@@ -18,7 +18,7 @@ For some time now, I've wanted to experiment with mobile app development. I rece
 
 Say Hello to [Radio Helsinki Player](https://play.google.com/store/apps/details?id=com.codeforcode.radiohelsinki)!
 
-![Screenshot_2014-02-04-00-31-09.png](/images/Screenshot_2014-02-04-00-31-09.png)
+![Screenshot_2014-02-04-00-31-09.png](/images/Screenshot_2014-02-04-00-31-09.png){: width="100%" }
 
 
 The app allows you to stream Radio Helsinki on your mobile device. In addition to the stream, you can view the shout box comments from the listeners and DJs. The app is available for free on [Google Play](https://play.google.com/store/apps/details?id=com.codeforcode.radiohelsinki).

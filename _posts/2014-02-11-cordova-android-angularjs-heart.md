@@ -9,29 +9,8 @@ layout: post
 
 I recently [released an Android application](/2014/02/11/radio-helsinki-player) for listening to my [favorite radio channel](http://www.radiohelsinki.fi) in Helsinki. Writing a mobile app was a long time coming. This is a story of my flip flop.
 
-[
-
-\>
-
-![Image by Markus Reinhardt](https://images.squarespace-cdn.com/content/v1/52375b95e4b030ffaec4c1f9/1392153094998-OMPH53YUP2CSA14AQE4R/5696426981_9dde938241_o.jpg)
-
-
-
-](http://www.flickr.com/photos/tuxxilla/5696426981/)
-
-[](http://www.flickr.com/photos/tuxxilla/5696426981/)
-
-<figcaption>
-
-
-
-Image by Markus Reinhardt
-
-
-
-
-
-</figcaption>
+![Image by Markus Reinhardt](https://images.squarespace-cdn.com/content/v1/52375b95e4b030ffaec4c1f9/1392153094998-OMPH53YUP2CSA14AQE4R/5696426981_9dde938241_o.jpg){: width="100%" }
+Image by [Markus Reinhardt](http://www.flickr.com/photos/tuxxilla/5696426981/)
 
 For quite a while, mobile development had interested me, but I had not yet taken the plunge. I did however have a clear picture of how good quality mobile apps should be created: by using native SDKs. [Phonegap](http://phonegap.com/) / [Cordova](http://cordova.apache.org/) were clever hacks, but hacks nevertheless. For mobile applications, UX and integration with platform services & ecosystem are vital. And these are where compromises must be made if not doing native development. And these compromises are bad, I thought.
 

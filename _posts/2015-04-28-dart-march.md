@@ -9,7 +9,7 @@ layout: post
 
 I attended the Goto conference 2011 in Amsterdam where Kasper Lund, the creator of Dart, officially announced Dart. The features of the language grabbed me immediately but during that time it was not mature enough to use in real projects and I never remembered to check back on how the language was doing.
 
-![dart-logo-wordmark.png](/images/dart-logo-wordmark.png)
+![dart-logo-wordmark.png](/images/dart-logo-wordmark.png){: width="100%" }
 
 At least from my perspective, Dart and JavaScript have a lot in common. Both are used for mainly two things: browser side and server side request-response or event processing. For this reason I will be comparing these two even though the languages have many deep rooted differences.
 
